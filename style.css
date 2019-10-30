@@ -1,4 +1,31 @@
+* {
+    margin: 5;
+    padding: 5;
+}
+
+#base {
+    width: 1400px;
+    height: 1600px;
+    background: #595959;
+    border-radius: 2em;
+    margin: 2em;
+    padding: 2em;
+}
+
 .imagenfrzn {
-    width: 50%;
+    width: 20%;
+    height: 20%;
+}
+
+.header1 {
     height: 50%;
+    background: #4d004d;
+    border-radius: 1em;
+    margin: 1em;
+    padding: 1em;
+}
+
+.frznLogo {
+    width: 15%;
+    height: 15%;
 }
